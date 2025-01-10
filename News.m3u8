@@ -1,11 +1,26 @@
 #EXTINF:-1 group-title="KOLKATA NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dSqBcEqAp3yjlFXxzzAzT-whLCiaARnEgw&usqp=CAU",Zee 24 Ghonta
 https://d2dsoyvkr33m05.cloudfront.net/index_2.m3u8
-
 #EXTINF:-1 group-title="KOLKATA NEWS" tvg-logo="https://feeds.abplive.com/onecms/images/uploaded-images/2024/01/03/a7a105a5aea78d7f063886a48d22045f1704284190505616_original.jpeg",Abp News live 
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
-
 #EXTINF:-1 group-title="KOLKATA NEWS" tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tv9bangla.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",TV9 Bangla 
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-
 #EXTINF:-1 group-title="KOLKATA NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_dkuhURvTgI96Tf-9hCKJKmE7T6YAmewdg&usqp=CAU",Republic Bangla
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8?ads.partner=republicweb
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg",ALJazeera TV
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://w7.pngwing.com/pngs/523/117/png-transparent-fox-news-fake-news-united-states-cable-news-news-broadcasting-cnn-fox-business-logo-text-logo-news.png",Fox News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg",BBC World News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0QJ-p_YriLLgx47mn2tkd5GwSk0EDU6zkRw&s",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png",Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CNBC_Awaaz_logo.png/640px-CNBC_Awaaz_logo.png",CNBC Awaaz
+https://amg01448-samsungin-cnbcawaaznw18-samsungin-ad-wj.amagi.tv/playlist/amg01448-samsungin-cnbcawaaznw18-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqgsvfVCC5WZxPxIp7vXTQ11WpCqTd8BZeg&s",Zee News
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-Zee_News/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/700348dd-988e-4574-b3b9-4918de8e383a/main.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/ABP_News_logo.svg",ABP News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/master.m3u8
